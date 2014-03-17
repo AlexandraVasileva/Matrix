@@ -1,6 +1,6 @@
-
 public class Vector {
 
+	// AP: аналогично - private
 	public int size;
 	public int values [];
 	
