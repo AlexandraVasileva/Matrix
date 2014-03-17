@@ -1,6 +1,6 @@
-
 public class Matrix {
 	
+	// AP: лучше сделать эти поля private
 	public int width;
 	public int height;
 	public Vector values[];
